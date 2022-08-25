@@ -1,2 +1,2 @@
 ## Python-Mean-Shift-Segmentation
-Mean shift segmentatio
+Mean shift segmentation is an iter
