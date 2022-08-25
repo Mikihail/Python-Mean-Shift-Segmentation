@@ -1,2 +1,2 @@
 ## Python-Mean-Shift-Segmentation
-Mean shift se
+Mean shift segmentatio
