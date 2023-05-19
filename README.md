@@ -4,4 +4,5 @@ Mean shift segmentation is an iterative process to partition the image into sema
 ### Main Technologies and Techniques:
 1. Boundary preserving filtering
 2. Mean Shift Filtering
-3. Threshol
+3. Thresholding
+4. Calc
