@@ -6,4 +6,5 @@ Mean shift segmentation is an iterative process to partition the image into sema
 2. Mean Shift Filtering
 3. Thresholding
 4. Calculating Euclidean distance
-5. Applications of normal or Epanechniko
+5. Applications of normal or Epanechnikov kernels
+6. Mea
