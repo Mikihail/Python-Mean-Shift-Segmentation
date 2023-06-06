@@ -12,4 +12,4 @@ Mean shift segmentation is an iterative process to partition the image into sema
 8. Image Segmentation
 
 ### Project Overview:
-The project revolves around the conc
+The project revolves around the concept of mean shift
