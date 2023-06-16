@@ -12,4 +12,4 @@ Mean shift segmentation is an iterative process to partition the image into sema
 8. Image Segmentation
 
 ### Project Overview:
-The project revolves around the concept of mean shift, a non-parametric feature-space analysis technique. We used this method to segment an image into different regions. The resulting segments
+The project revolves around the concept of mean shift, a non-parametric feature-space analysis technique. We used this method to segment an image into different regions. The resulting segments are displayed
