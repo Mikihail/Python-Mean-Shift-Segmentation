@@ -17,3 +17,4 @@ The project revolves around the concept of mean shift, a non-parametric feature-
 Algorithm implemented:
 1. Mode Detection
 2. Discontinuity Preserving filtering
+3. Mean 
