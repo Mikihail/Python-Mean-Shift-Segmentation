@@ -19,4 +19,4 @@ Algorithm implemented:
 2. Discontinuity Preserving filtering
 3. Mean shift image segmentation
 
-### S
+### Software Used:
