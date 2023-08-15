@@ -22,4 +22,5 @@ Algorithm implemented:
 ### Software Used:
 Enthought Canopy 1.6.1
 
-### Ou
+### Outcome:
+The ult
