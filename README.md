@@ -20,4 +20,4 @@ Algorithm implemented:
 3. Mean shift image segmentation
 
 ### Software Used:
-Enthought
+Enthought Canopy 1.6
