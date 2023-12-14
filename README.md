@@ -23,4 +23,4 @@ Algorithm implemented:
 Enthought Canopy 1.6.1
 
 ### Outcome:
-The ultimate obje
+The ultimate objective is to ensure
