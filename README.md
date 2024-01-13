@@ -23,4 +23,4 @@ Algorithm implemented:
 Enthought Canopy 1.6.1
 
 ### Outcome:
-The ultimate objective is to ensure that our mean shift algorithm is able
+The ultimate objective is to ensure that our mean shift algorithm is able to traver
