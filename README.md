@@ -26,4 +26,4 @@ Enthought Canopy 1.6.1
 The ultimate objective is to ensure that our mean shift algorithm is able to traverse all the rows until every point is exhausted. The results are then discussed and evaluated.
 
 ### Shortcomings:
-The appropriate selection of the window size i
+The appropriate selection of the window size is non-tri
