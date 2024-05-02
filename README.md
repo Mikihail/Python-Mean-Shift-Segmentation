@@ -28,4 +28,5 @@ The ultimate objective is to ensure that our mean shift algorithm is able to tra
 ### Shortcomings:
 The appropriate selection of the window size is non-trivial. Inappropriate size can lead to merging of modes or creation of additional shallow modes.
 
-### Lessons 
+### Lessons Learned:
+Throu
