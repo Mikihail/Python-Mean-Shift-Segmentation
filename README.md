@@ -31,4 +31,5 @@ The appropriate selection of the window size is non-trivial. Inappropriate size 
 ### Lessons Learned:
 Through the course of this project, we have honed our understanding on Python programming, image processing techniques and libraries like scipy, numpy, sys, random and opencv.
 
-### Ackn
+### Acknowledgement:
+Th
