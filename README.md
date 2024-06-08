@@ -32,4 +32,4 @@ The appropriate selection of the window size is non-trivial. Inappropriate size 
 Through the course of this project, we have honed our understanding on Python programming, image processing techniques and libraries like scipy, numpy, sys, random and opencv.
 
 ### Acknowledgement:
-This work is being continued by Mikihail and all queries should be di
+This work is being continued by Mikihail and all queries should be directed to them.
