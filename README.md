@@ -36,4 +36,4 @@ This work is being continued by Mikihail and all queries should be directed to t
 
 ### References:
 1. <https://en.wikipedia.org/wiki/Mean_shift#Applications>
-2. <http://luthuli.cs
+2. <http://luthuli.cs.uiuc.edu/~da
