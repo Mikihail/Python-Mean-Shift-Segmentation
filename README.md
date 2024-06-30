@@ -38,4 +38,4 @@ This work is being continued by Mikihail and all queries should be directed to t
 1. <https://en.wikipedia.org/wiki/Mean_shift#Applications>
 2. <http://luthuli.cs.uiuc.edu/~daf/courses/CS-498-DAF-PS/Segmentation.pdf>
 3. <http://comaniciu.net/Papers/RobustAnalysisFeatureSpaces.pdf>
-4. <ht
+4. <http://home
