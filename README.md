@@ -39,4 +39,4 @@ This work is being continued by Mikihail and all queries should be directed to t
 2. <http://luthuli.cs.uiuc.edu/~daf/courses/CS-498-DAF-PS/Segmentation.pdf>
 3. <http://comaniciu.net/Papers/RobustAnalysisFeatureSpaces.pdf>
 4. <http://home.ku.edu.tr/mehyilmaz/public_html/mean-shift/00400568.pdf>
-5. <https://saravananthirumuruganathan.wordpres
+5. <https://saravananthirumuruganathan.wordpress.com/2010/
